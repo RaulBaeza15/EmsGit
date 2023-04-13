@@ -3,7 +3,9 @@
 
 # Log file
 *.log
-
+# Sandbox
+sandbox/
+sandbox/**
 # Package Files #
 *.jar
 *.war
